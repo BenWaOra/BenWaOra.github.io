@@ -1,0 +1,19 @@
+p {
+	color: red;
+	text-align: center;
+}
+p {
+	color: blue;
+background-color: lightgray;
+}
+body {
+background-color: cornsilk;
+}
+body {
+	background-image: url("https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2015/12/04/15/harry-potter-philosophers-stone.jpg");
+}
+body {
+	background-image: url("...insert URL here...");
+	Background-repeat: ...insert value here...;
+}
+
