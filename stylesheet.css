@@ -1,16 +1,10 @@
 h1 {
-	color: red;
-}
-
-h1 {
 	color: blue;
+	text-align; left;
 background: black;
 }
 p {
-	color: red;
 	text-align: center;
-}
-p {
 	color: blue;
 background-color: black;
 }
