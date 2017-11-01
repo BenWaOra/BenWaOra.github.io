@@ -11,4 +11,8 @@ background-color: black;
 body {
 	background-image: url("pepethefrog.png");
 }
-
+a {
+	text-align: center;
+	color: blue;
+background-color: black;
+}
