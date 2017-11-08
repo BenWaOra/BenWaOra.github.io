@@ -15,11 +15,11 @@ li a {
   text-decoration: none;
   color: black;
   text-aling: center;
-  display: block;
   height: 30px;
   padding: 10px;
   positon: fixed;
   height: 100%;
+  
 }
 
 ul {
@@ -32,4 +32,8 @@ body {
   
   margin: 0;
   
+}
+
+li {
+  display: inline
 }
