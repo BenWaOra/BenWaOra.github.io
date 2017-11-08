@@ -1,7 +1,7 @@
 ul {
   list-style-type: none;
   background-color: lightgrey;
-  width: 100px;
+  width: 300px;
 }
 
 li a:hover {
