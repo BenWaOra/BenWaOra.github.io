@@ -3,3 +3,8 @@ ul {
   background-color: lightgrey;
   width: 100px;
 }
+
+li a:hover {
+  background: aquamarine;
+  displsy: block;
+}
