@@ -6,5 +6,15 @@ ul {
 
 li a:hover {
   background: aquamarine;
-  displsy: block;
+  
+}
+
+li a {
+  
+display: block;
+  
+}
+
+ul {
+  padding: 0;
 }
