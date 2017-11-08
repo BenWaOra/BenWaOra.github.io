@@ -11,8 +11,9 @@ li a:hover {
 
 li a {
 
-text-font: albertus;
-under-line: 0;
+font-family: Arial;
+text-decoration: none;
+color: black;
 text-aling: center;
 display: block;
   
