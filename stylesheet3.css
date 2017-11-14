@@ -10,6 +10,7 @@ li a:hover {
 }
 
 li a {
+  font-size: 250%;
   marigin: 0;
   font-family: Arial;
   text-decoration: none;
