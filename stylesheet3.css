@@ -4,6 +4,7 @@ ul {
   background-color: lightgrey;
   font-size: 250%;
   margin: 0;
+  padding: 0;
 
 }
 
@@ -22,26 +23,13 @@ li a {
   padding: 10px;
   positon: fixed;
   height: 100%;
-
-  
 }
-
-ul {
   
-  padding: 0;
-}
-ul2 {
-  
-  padding: 0;
-}
 
 
 body {
   
   margin: 0;
-
-    background-video:<iframe width="560" height="315" src="https://www.youtube.com/embed/0h6MmpxEI2M" frameborder="0" gesture="media" allowfullscreen></iframe>
-}
 
 }
 
