@@ -32,6 +32,7 @@ body {
  
   background-image: url("blurred_golden_background_192849.jpg");
   background-repeat: no-repeat, repeat;
+  background-size: auto;
   margin: 0;
 
 }
