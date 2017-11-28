@@ -31,6 +31,7 @@ li a {
 body {
  
   background-image: url("blurred_golden_background_192849.jpg");
+  background-repeat: no-repeat, repeat;
   margin: 0;
 
 }
