@@ -32,7 +32,8 @@ body {
  
  background: url(blurred_golden_background_192849.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
+    background-attachment: fixed;
   margin: 0;
 
 }
