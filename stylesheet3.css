@@ -30,7 +30,7 @@ li a {
 
 body {
  
- background: url(blurred_golden_background_192849.jpg);
+ background: url("blurred_golden_background_192849.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
